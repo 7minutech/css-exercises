@@ -1,8 +1,11 @@
-.odd{
+.odd,.cool-odd{
     background-color: #e4909e;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #second{
     color: #3c3cbd;
     font-size: 36px;
+}
+.cool-odd{
+    font-size: 24px;
 }
