@@ -18,7 +18,7 @@ body {
 .right-header{
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
   padding-right: 8px;
 }
 .left-header{
@@ -41,7 +41,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  
 }
 
 button {
