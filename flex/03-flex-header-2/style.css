@@ -15,6 +15,16 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.right-header{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.left-header{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
 
 .profile-image {
   background: rebeccapurple;
