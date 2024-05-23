@@ -16,6 +16,10 @@ img {
   display: flex;
   justify-content: space-around;
 }
+.fig-cap{
+  display: flex;
+  flex-direction: column;
+}
 
 /* do not edit this footer */
 .footer {
