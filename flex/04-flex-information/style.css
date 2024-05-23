@@ -11,14 +11,20 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 32px;
 }
 .figures{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 52px;
+  
 }
 .fig-cap{
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex: 1,1,200px;
+  text-align: center;
 }
 
 /* do not edit this footer */
