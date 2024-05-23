@@ -17,8 +17,9 @@ body {
 }
 .right-header{
   display: flex;
-  justify-content: flex-end;
   align-items: center;
+  gap: 10px;
+  padding-right: 8px;
 }
 .left-header{
   display: flex;
