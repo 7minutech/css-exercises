@@ -25,6 +25,7 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  padding-left: 8px;
 }
 
 .profile-image {
@@ -40,7 +41,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  padding-left: 10px;
+  
 }
 
 button {
