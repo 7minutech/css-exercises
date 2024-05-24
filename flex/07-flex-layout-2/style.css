@@ -23,8 +23,6 @@ body {
   flex-grow: 1;
   flex-shrink: 0;
   display: flex;
-  
-  
   gap: 16px;
 }
 .cards{
@@ -34,10 +32,6 @@ body {
   flex-basis: 10px;
   gap: 16px;
   padding: 24px;
-}
-.top-card,.bottom-card{
-  display: flex;
-  gap: 16px;
 }
 .footer {
   flex-grow: 0.1;
@@ -60,7 +54,6 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  padding: 16px;
 }
 a{
   text-decoration: none;
