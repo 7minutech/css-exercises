@@ -30,15 +30,19 @@ input {
 .header,.footer{
   display: flex;
   justify-content: space-between;
-  margin-right: 16px;
-  margin-left: -24px;
+  padding: 16px;
 }
 .left-links,.right-links{
   display: flex;
   gap: 16px;
 }
 ul{
+  display: flex;
   list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+
 }
 a{
   text-decoration: none;
