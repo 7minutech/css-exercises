@@ -27,6 +27,12 @@ input {
 .header{
   display: flex;
   justify-content: space-between;
+  margin-right: 16px;
+  margin-left: -16px;
+}
+.left-links,.right-links{
+  display: flex;
+  gap: 16px;
 }
 ul{
   list-style: none;
