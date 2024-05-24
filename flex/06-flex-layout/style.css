@@ -49,8 +49,7 @@ a{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin: auto;
   gap: 16px;
 }
 .footer{
